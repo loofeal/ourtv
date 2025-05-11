@@ -10,7 +10,7 @@ https://github.com/andandroidor/ourtv/releases/
 xxxx_androidtv.apk TV version
 xxxx_androidphone.apk Android phone version
 Please do not install the wrong version.
-Incompatible with CCTV Video (央视频). It is recommended to turn off automatic updates in app stores. It may be overwritten and installed by CCTV Video.
+Incompatible with CCTV Video . It is recommended to turn off automatic updates in app stores. It may be overwritten and installed by CCTV Video.
 If you need to install both apps on the same phone, please try using an Android virtual machine program. VMOS is recommended; install the other app in the virtual phone.
 
 Installation
